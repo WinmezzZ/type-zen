@@ -2,4 +2,5 @@
 .pnpm-debug.log
 node_modules
 dist
-__snapshots__
+__snapshots_
+.git
